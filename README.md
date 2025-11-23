@@ -1,4 +1,4 @@
-🛠 Linux Admin Toolkit
+Linux Admin Toolkit
 ****************************
 A Complete System Health, User Management & Log Analysis Bash Automation Script
 ------------------------------
@@ -6,10 +6,10 @@ The Linux Admin Toolkit is an interactive Bash-based automation tool designed fo
 It provides system health monitoring, user management, and security log analysis, all packaged into one menu-driven script.
 
 📌 Features Overview
-#############################
+********************************************
 ✅ 1. System Health Monitoring
 
-************************************
+--------------------------------------
 
 Provides real-time system resource usage:
 
