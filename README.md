@@ -88,7 +88,7 @@ Each module runs according to the option selected by the user.
 
 ###### /var/log/auth.log (Debian/Ubuntu)
 
-###### /var/log/auth.log (Debian/Ubuntu)
+###### /var/log/secure (RHEL/CentOS)
 
 It extracts security-related information such as login activity and brute-force attempts.
 
